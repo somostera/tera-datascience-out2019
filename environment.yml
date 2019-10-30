@@ -42,4 +42,4 @@ dependencies:
     - language-check==1.1
     - pycontractions==2.0.0
     - python-utils==2.3.0
-    - pygraphviz==2.40.1
+    - pygraphviz==1.5
