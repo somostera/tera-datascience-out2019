@@ -18,7 +18,7 @@ Conteúdos que serão usados na aula:
 - [Correlação de Perason](https://pt.wikipedia.org/wiki/Coeficiente_de_correla%C3%A7%C3%A3o_de_Pearson)  
 
 Os datasets usados para a aula foram obtidos de competições do kaggle:
-- [2018 Kaggle ML & DS Survey Challenge](https://www.kaggle.com/kaggle/kaggle-survey-2018): para executar os notbooks necessário incluir incluir o arquivo multipleChoiceResponses.csv na pasta data/DS_Survey2018  
-- [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data): para executar os notbooks necessário incluir incluir o arquivo rain.csv na pasta data/rossmann-store-sales  
+- [2018 Kaggle ML & DS Survey Challenge](https://www.kaggle.com/kaggle/kaggle-survey-2018)  
+- [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data)  
 
 
