@@ -1,0 +1,17 @@
+animal,class,habitat,diet,spine,scales,claws,spikes,fur,eggs,wool,hump,hooves,long neck,barbed tongue,trunk
+echidna,mammal,bush,carnivore,1,0,1,1,1,1,0,0,0,0,0,0
+domestic cat,mammal,urban,carnivore,1,0,1,0,1,0,0,0,0,0,1,0
+blue-tongue,reptile,bush,omnivore,1,1,1,0,0,1,0,0,0,0,0,0
+sheep,mammal,farmland,herbivore,1,0,0,0,0,0,1,0,1,0,0,0
+green tree frog,amphibian,rainforest,carnivore,1,0,0,0,0,1,0,0,0,0,0,0
+kookaburra,bird,bush,carnivore,1,0,1,0,0,1,0,0,0,0,0,0
+koala,mammal,bush,herbivore,1,0,1,0,1,0,0,0,0,0,0,0
+northen giraffe,mammal,savannah,herbivore,1,0,0,0,1,0,0,0,1,1,1,0
+bush elephant,mammal,arid,herbivore,1,0,0,0,0,0,0,0,0,0,0,1
+camel,mammal,arid,herbivore,1,0,0,0,1,0,0,1,1,1,0,0
+lizard,reptile,savannah,carnivore,1,1,1,0,0,1,0,0,0,0,0,0
+cassowary,bird,rainforest,omnivore,1,0,1,0,0,1,0,0,0,0,0,0
+dugong,mammal,coast,omnivore,1,0,0,0,1,0,0,0,0,0,0,0
+brown snake,reptile,bush,carnivore,1,1,0,0,0,1,0,0,0,0,0,0
+meu,bird,bush,omnivore,1,0,1,0,0,0,0,0,0,1,0,0
+murray cod,fish,freshwater,carnivore,1,1,0,0,0,1,0,0,0,0,0,0
