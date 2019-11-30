@@ -2,7 +2,7 @@
 
 Nessa aula, vamos aprender sobre processamento de linguagem natural (NLP) através de duas atividades:
 
-* análise de sentimento em um dataset de reviews de restaurante (`nlp_parte_1.ipynb`); e
+* análise de sentimento em um dataset de reviews de produtos (`nlp_parte_1.ipynb`); e
 
 * construção de uma ferramenta para medir a combinação de ingredientes usando um dataset de receitas (`nlp_parte_2.ipynb`).
 
